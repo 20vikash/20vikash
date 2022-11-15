@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikash
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Game development
-- 💞️ I’m looking to collaborate on 3D and 2D projects.
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning networking
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me instagram: ssvikash_05
 
 <!---
