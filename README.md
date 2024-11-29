@@ -1,6 +1,4 @@
-- Conmputer
-- Yea
-- Cool thing
+I use neovim btw..
 
 <!---
 20vikash/20vikash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
