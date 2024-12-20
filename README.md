@@ -1,6 +1,6 @@
-I instruct computer to do stuff..\n
-But it dosen't obey me..\n
-Maybe I'm the bad parent?\n
+I instruct computer to do stuff.. <br />
+But it dosen't obey me.. <br />
+Maybe I'm the bad parent?
 
 <!---
 20vikash/20vikash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
