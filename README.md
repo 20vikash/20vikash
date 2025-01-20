@@ -1,4 +1,4 @@
-I instruct computer to do stuff.. <br />
+I instruct my computer to do stuff.. <br />
 But it dosen't obey me.. <br />
 Maybe I'm the bad parent? 🗣️
 
